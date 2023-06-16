@@ -8,3 +8,5 @@
 [Code pour ESP8266:](Arduino/ESP8266)   
 -[code pour un capteur de température.](Arduino/ESP8266/sketch_temp_2_copy_20230518132052_copy_20230524112616/sketch_temp_1_copy_20230518132052_copy_20230524112616.ino)  
 -[code pour l'envoyer sur un site grafana en direct.](Arduino/ESP8266/grafanaLive2/grafanaLive2.ino)
+-[simulation du circuit.](Arduino/ESP8266/circuit) 
+-[script python pour calculer les resistance et pour le code de température](Arduino/ESP8266/calcul_for_temperature)
